@@ -1,4 +1,4 @@
-//require("dotenv").config();
+require("dotenv").config();
 const pronote = require('pronote-api');
 const login = require("./pronote");
 const bot = require("./bot");
