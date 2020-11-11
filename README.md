@@ -1,6 +1,6 @@
 # Pronote-Bot-Discord
 
-Fill the .env file for the bot and the user configuration
+Fill in the .env file for the bot and user configuration
 
 > Start
 ```cmd
