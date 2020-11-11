@@ -10,7 +10,7 @@ npm i && npm start
 > Deploy
 
 ```
-git clone 
+git clone https://github.com/JulesG10/Pronote-Bot-Discord.git
 heroku login
 heroku git:clone -a discord-bot-pronote
 cd Pronote-Bot-Discord
