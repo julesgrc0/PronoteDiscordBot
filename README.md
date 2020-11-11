@@ -27,7 +27,9 @@ git push heroku master
 !eval = donne la liste des évaluation a venir
 !moyenne = donne la moyenne de la classe
 !login <identifiant> <mot de passe> = donne vos information (moyenne, groupe, etc...) (vos indentifiant pronote seront cacher)
-!notes <identifiant> <mot de passe> = listes toutes vos notes en DM (vos indentifiant pronote seront cacher)
+!notes<identifiant> <mot de passe> = listes toutes vos notes en DM (vos indentifiant pronote seront cacher)
 !clear = efface les 100 dernier message du salon
+!info = liste les 5 dernières informations des pronote
+!infoall = liste toutes les information depuis le début de l'année
 !pronote = donne la licence et les information sur le createur du bot
 ```
